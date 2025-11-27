@@ -18,10 +18,10 @@ Digitaliser l’expérience capillaire, de la prise de rendez-vous jusqu’au su
 ## Fonctionnalités principales
 *  `Pour les clients`
 
-- Parcourir les salons disponibles
-- Découvrir les styles et coiffures proposés
-- Réserver un rendez-vous en quelques clics
-- Voir l’historique de ses services
+Parcourir les salons disponibles
+Découvrir les styles et coiffures proposés
+Réserver un rendez-vous en quelques clics
+Voir l’historique de ses services
 
 *  `Pour les coiffeurs`
 
