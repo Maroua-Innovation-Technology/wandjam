@@ -40,14 +40,14 @@ Digitaliser l’expérience capillaire, de la prise de rendez-vous jusqu’au su
 
 <table>
 <tr>
-<td><img src="Welcome Screen.png" width="100"/></td>
-<td><img src="Login Screen.png" width="100"/></td>
-<td><img src="Register Screen.png" width="100"/></td>
+<td><img src="Welcome Screen.png" width="180"/></td>
+<td><img src="Login Screen.png" width="180"/></td>
+<td><img src="Register Screen.png" width="180"/></td>
 </tr>
 <tr>
-<td><img src="Home.png" width="100"/></td>
-<td><img src="Coiffure.png" width="100"/></td>
-<td><img src="Detail.png" width="100"/></td>
+<td><img src="Home.png" width="180"/></td>
+<td><img src="Coiffure.png" width="180"/></td>
+<td><img src="Detail.png" width="180"/></td>
 </tr>
 </table>
 
