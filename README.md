@@ -46,7 +46,9 @@ Notre objectif est d’apporter des solutions modernes et accessibles pour amél
 
 Wandjam reflète notre volonté d’offrir une expérience fluide, moderne et adaptée aux réalités des salons de notre région.
 
-🚀 Getting Started (en français)
+<hr>
+
+### Getting Started
 
 Ce projet constitue un point de départ pour une application Flutter.
 
