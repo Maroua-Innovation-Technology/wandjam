@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>WANDJAM - Gestion de salons de coiffure</title>
+
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -54,6 +55,7 @@
     text-decoration: underline;
   }
 </style>
+
 </head>
 <body>
 
