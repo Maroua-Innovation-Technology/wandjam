@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>WANDJAM - Gestion de salons de coiffure</title>
+<<<<<<< HEAD
+<link rel="stylesheet" href="style.css">
+=======
 
 <style>
   body {
@@ -56,6 +59,7 @@
   }
 </style>
 
+>>>>>>> ab871f8499a36e67793f89302e031642fb351aaf
 </head>
 <body>
 
