@@ -52,12 +52,6 @@ Suivi des prestations et activités du salon
     justify-content: center; /* Centre les images */
     gap: 10px;              /* Espace plus petit */
   }
-.gallery img {
-    width: 80px;            /* Taille fixe plus petite */
-    border-radius: 5px;
-    box-shadow: 0 1px 5px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-  }
   .gallery img:hover {
     transform: scale(1.1);
   }
