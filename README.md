@@ -50,15 +50,15 @@ Wandjam reflète notre volonté d’offrir une expérience fluide, moderne et ad
 
 ### Getting Started
 
-Ce projet constitue un point de départ pour une application Flutter.
+Ce projet constitue un point de départ pour une application Flutter. <br>
 
-🔧 Ressources utiles pour démarrer :
+Ressources utiles pour démarrer :<br>
 
-Lab : Créez votre première application Flutter
+Lab : Créez votre première application Flutter<br>
 
-Cookbook : Exemples pratiques Flutter
+Cookbook : Exemples pratiques Flutter<br>
 
-Documentation officielle Flutter : tutoriels, exemples, API complète
+Documentation officielle Flutter : tutoriels, exemples, API complète<br>
 
 👉 https://docs.flutter.dev
 
