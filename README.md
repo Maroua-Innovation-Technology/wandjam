@@ -37,6 +37,7 @@ Suivi des prestations et activités du salon
 
 ## Aperçu de la maquette
 
+<img src="Welcome Screen.png" width ="50%">
 
 
 ## À propos du groupe
