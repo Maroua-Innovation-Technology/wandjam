@@ -25,19 +25,15 @@ Digitaliser l’expérience capillaire, de la prise de rendez-vous jusqu’au su
 
 *  `Pour les coiffeurs`
 
-Visualisation des rendez-vous du jour
+- Visualisation des rendez-vous du jour
+- Gestion des clients et des prestations réalisées
+- Mise en avant de leurs coiffures (galerie)
 
-Gestion des clients et des prestations réalisées
+* `Pour les propriétaires / administrateurs`
 
-Mise en avant de leurs coiffures (galerie)
-
-🔹 Pour les propriétaires / administrateurs
-
-Gestion du salon (informations, horaires, images)
-
-Ajout et gestion des coiffeurs
-
-Suivi des prestations et activités du salon
+- Gestion du salon (informations, horaires, images)
+- Ajout et gestion des coiffeurs
+- Suivi des prestations et activités du salon
 
 🖼️ Aperçu de la maquette (8 images)
 
