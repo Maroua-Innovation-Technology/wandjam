@@ -5,7 +5,7 @@
 Wandjam est une application mobile développée avec Flutter, conçue pour
 faciliter la gestion complète des salons de coiffure ("wandjam" signifie
 coiffure dans notre langue locale).\
-Elle met en relation les clients, les coiffeurs/barbiers, et les
+Elle met en relation les clients, les coiffeurs, et les
 gestionnaires de salons, tout en automatisant les rendez-vous, les
 services et le suivi des prestations.
 
@@ -13,33 +13,33 @@ services et le suivi des prestations.
 
 ### Gestion des utilisateurs
 
--   Rôles : Admin, Coiffeur/Barbier, Client\
--   Profil utilisateur avec photo\
--   Gestion des salons\
+-   Rôles : Admin, coiffeur, Client
+-   Profil utilisateur avec photo
+-   Gestion des salons
 -   Affectation des coiffeurs aux salons
 
 ### Gestion des salons
 
--   Nom, adresse, images\
--   Galerie\
--   Coiffeurs associés\
+-   Nom, adresse, images
+-   Galerie
+-   Coiffeurs associés
 -   Services proposés
 
 ### Services / Coiffures
 
--   Nom\
--   Description\
--   Images\
--   Prix\
--   Durée\
+-   Nom
+-   Description
+-   Images
+-   Prix
+-   Durée
 -   Catégorie
 
 ### Rendez-vous
 
--   Salon\
--   Service\
--   Coiffeur\
--   Horaire\
+-   Salon
+-   Service
+-   Coiffeur
+-   Horaire
 -   Statut
 
 ### Paiements (optionnel)
