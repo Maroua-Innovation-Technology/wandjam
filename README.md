@@ -18,22 +18,22 @@ Digitaliser l’expérience capillaire, de la prise de rendez-vous jusqu’au su
 ## Fonctionnalités principales
 *  `Pour les clients`
 
-Parcourir les salons disponibles
-Découvrir les styles et coiffures proposés
-Réserver un rendez-vous en quelques clics
-Voir l’historique de ses services
+Parcourir les salons disponibles <br>
+Découvrir les styles et coiffures proposés<br>
+Réserver un rendez-vous en quelques clics<br>
+Voir l’historique de ses services<br>
 
 *  `Pour les coiffeurs`
 
-- Visualisation des rendez-vous du jour
-- Gestion des clients et des prestations réalisées
-- Mise en avant de leurs coiffures (galerie)
+Visualisation des rendez-vous du jour <br>
+Gestion des clients et des prestations réalisées <br>
+Mise en avant de leurs coiffures (galerie) <br>
 
 * `Pour les propriétaires / administrateurs`
 
-- Gestion du salon (informations, horaires, images)
-- Ajout et gestion des coiffeurs
-- Suivi des prestations et activités du salon
+Gestion du salon (informations, horaires, images)<br>
+Ajout et gestion des coiffeurs <br>
+Suivi des prestations et activités du salon 
 
 ## Aperçu de la maquette
 
