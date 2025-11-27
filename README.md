@@ -39,7 +39,7 @@ Digitaliser l’expérience capillaire, de la prise de rendez-vous jusqu’au su
 
 
 
-👥 À propos du groupe
+## À propos du groupe
 
 Nous sommes un groupe passionné par les technologies mobiles et la transformation digitale locale.
 Notre objectif est d’apporter des solutions modernes et accessibles pour améliorer les services du quotidien, notamment dans le domaine de la coiffure.
