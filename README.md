@@ -45,20 +45,18 @@ Suivi des prestations et activités du salon
   <img src="Coiffure.png" alt="Coiffure">
   <img src="Detail.png" alt="Detail">
 </div>
-
 <style>
   .gallery {
     display: flex;
-    flex-wrap: wrap;      /* Permet de passer à la ligne */
+    flex-wrap: wrap;        /* Permet de passer à la ligne */
     justify-content: center; /* Centre les images */
-    gap: 20px;            /* Espace entre les images */
+    gap: 10px;              /* Espace plus petit */
   }
 
   .gallery img {
-    width: 10%;
-    min-width: 100px;     /* Évite que ça devienne trop petit */
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    width: 80px;            /* Taille fixe plus petite */
+    border-radius: 5px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.2);
     transition: transform 0.3s ease;
   }
 
