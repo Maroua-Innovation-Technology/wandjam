@@ -1,108 +1,73 @@
-# WANDJAM 
+WANDJAM
 
-### Application de gestion de salons de coiffure
+Application mobile destinée à la gestion moderne des salons de coiffure.
+Wandjam facilite la relation entre les salons, les coiffeurs et les clients en regroupant les prestations, les rendez-vous, le suivi et la communication dans une seule plateforme intuitive.
 
-Wandjam est une application mobile développée avec Flutter, conçue pour
-faciliter la gestion complète des salons de coiffure ("wandjam" signifie
-coiffure dans notre langue locale).\
-Elle met en relation les clients, les coiffeurs, et les
-gestionnaires de salons, tout en automatisant les rendez-vous, les
-services et le suivi des prestations.
+📌 Présentation générale
 
-## Fonctionnalités principales
+Wandjam est une solution simple et efficace qui permet aux salons de coiffure de mieux organiser leur activité quotidienne.
+L’application aide :
 
-### Gestion des utilisateurs
+les clients à réserver facilement,
 
--   Rôles : Admin, coiffeur, Client
--   Profil utilisateur avec photo
--   Gestion des salons
--   Affectation des coiffeurs aux salons
+les coiffeurs à gérer leurs prestations,
 
-### Gestion des salons
+les propriétaires à suivre le fonctionnement global du salon.
 
--   Nom, adresse, images
--   Galerie
--   Coiffeurs associés
--   Services proposés
+🎯 Objectif principal :
+Digitaliser l’expérience capillaire, de la prise de rendez-vous jusqu’au suivi du service.
 
-### Services / Coiffures
+✨ Fonctionnalités principales
+🔹 Pour les clients
 
--   Nom
--   Description
--   Images
--   Prix
--   Durée
--   Catégorie
+Parcourir les salons disponibles
 
-### Rendez-vous
+Découvrir les styles et coiffures proposés
 
--   Salon
--   Service
--   Coiffeur
--   Horaire
--   Statut
+Réserver un rendez-vous en quelques clics
 
-### Paiements (optionnel)
+Voir l’historique de ses services
 
--   Historique
--   Statistiques
+🔹 Pour les coiffeurs
 
-## Modèle de données (MCD)
+Visualisation des rendez-vous du jour
 
-### Users
+Gestion des clients et des prestations réalisées
 
--   id
--   nom
--   téléphone
--   email
--   rôle
--   image
+Mise en avant de leurs coiffures (galerie)
 
-### Salons
+🔹 Pour les propriétaires / administrateurs
 
--   id
--   nom
--   localisation
--   images
--   disponibilité
+Gestion du salon (informations, horaires, images)
 
-### Services
+Ajout et gestion des coiffeurs
 
--   id
--   nom
--   description
--   images
--   prix
--   catégorie
+Suivi des prestations et activités du salon
 
-### RendezVous
+🖼️ Aperçu de la maquette (8 images)
 
--   id
--   date
--   heure
--   statut
--   salon_id
--   user_id
--   coiffeur_id
--   service_id
+(Tu ajouteras les images ici plus tard)
 
-### TravaillerDans
+👥 À propos du groupe
 
--   user_id
--   salon_id
--   rôle
+Nous sommes un groupe passionné par les technologies mobiles et la transformation digitale locale.
+Notre objectif est d’apporter des solutions modernes et accessibles pour améliorer les services du quotidien, notamment dans le domaine de la coiffure.
 
-## Architecture Flutter
+Wandjam reflète notre volonté d’offrir une expérience fluide, moderne et adaptée aux réalités des salons de notre région.
 
-    lib/
-     ├── models/
-     ├── screens/
-     ├── services/
-     ├── providers/
-     ├── widgets/
-     └── utils/
+🚀 Getting Started (en français)
 
+Ce projet constitue un point de départ pour une application Flutter.
 
+🔧 Ressources utiles pour démarrer :
+
+Lab : Créez votre première application Flutter
+
+Cookbook : Exemples pratiques Flutter
+
+Documentation officielle Flutter : tutoriels, exemples, API complète
+
+👉 https://docs.flutter.dev
 
 ## Licence
 
@@ -110,4 +75,4 @@ MIT
 
 ## Contact
 
-support@wandjam.com
+mit.cm
