@@ -1,16 +1,119 @@
-# wandjam
+# WANDJAM --- Application de gestion de salons de coiffure
 
-A new Flutter project.
+Wandjam est une application mobile développée avec Flutter, conçue pour
+faciliter la gestion complète des salons de coiffure ("wandjam" signifie
+coiffure dans notre langue locale).\
+Elle met en relation les clients, les coiffeurs/barbiers, et les
+gestionnaires de salons, tout en automatisant les rendez-vous, les
+services et le suivi des prestations.
 
-## Getting Started
+## Fonctionnalités principales
 
-This project is a starting point for a Flutter application.
+### Gestion des utilisateurs
 
-A few resources to get you started if this is your first Flutter project:
+-   Rôles : Admin, Coiffeur/Barbier, Client\
+-   Profil utilisateur avec photo\
+-   Gestion des salons\
+-   Affectation des coiffeurs aux salons
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Gestion des salons
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-   Nom, adresse, images\
+-   Galerie\
+-   Coiffeurs associés\
+-   Services proposés
+
+### Services / Coiffures
+
+-   Nom\
+-   Description\
+-   Images\
+-   Prix\
+-   Durée\
+-   Catégorie
+
+### Rendez-vous
+
+-   Salon\
+-   Service\
+-   Coiffeur\
+-   Horaire\
+-   Statut
+
+### Paiements (optionnel)
+
+-   Historique\
+-   Statistiques
+
+## Modèle de données (MCD)
+
+### Users
+
+-   id\
+-   nom\
+-   téléphone\
+-   email\
+-   rôle\
+-   image
+
+### Salons
+
+-   id\
+-   nom\
+-   localisation\
+-   images\
+-   disponibilité
+
+### Services
+
+-   id\
+-   nom\
+-   description\
+-   images\
+-   durée\
+-   prix\
+-   catégorie
+
+### RendezVous
+
+-   id\
+-   date\
+-   heure\
+-   statut\
+-   salon_id\
+-   user_id\
+-   coiffeur_id\
+-   service_id
+
+### TravaillerDans
+
+-   user_id\
+-   salon_id\
+-   rôle
+
+## Architecture Flutter
+
+    lib/
+     ├── models/
+     ├── screens/
+     ├── services/
+     ├── providers/
+     ├── widgets/
+     └── utils/
+
+## Installation
+
+``` bash
+git clone https://github.com/username/wandjam.git
+cd wandjam
+flutter pub get
+flutter run
+```
+
+## Licence
+
+MIT
+
+## Contact
+
+support@wandjam.com
