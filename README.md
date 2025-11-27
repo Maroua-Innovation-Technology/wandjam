@@ -39,6 +39,15 @@ Suivi des prestations et activités du salon
 
 <img src="Welcome Screen.png" width ="50%">
 
+<img src="Login Screen.png" width ="50%">
+
+<img src="Register Screen.png" width ="50%">
+
+<img src="Home.png" width ="50%">
+
+<img src="Coiffure.png" width ="50%">
+
+<img src="Detail.png" width ="50%">
 
 ## À propos du groupe
 
