@@ -37,17 +37,36 @@ Suivi des prestations et activités du salon
 
 ## Aperçu de la maquette
 
-<img src="Welcome Screen.png" width ="10%">
+<div class="gallery">
+  <img src="Welcome Screen.png" alt="Welcome Screen">
+  <img src="Login Screen.png" alt="Login Screen">
+  <img src="Register Screen.png" alt="Register Screen">
+  <img src="Home.png" alt="Home">
+  <img src="Coiffure.png" alt="Coiffure">
+  <img src="Detail.png" alt="Detail">
+</div>
 
-<img src="Login Screen.png" width ="10%">
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;      /* Permet de passer à la ligne */
+    justify-content: center; /* Centre les images */
+    gap: 20px;            /* Espace entre les images */
+  }
 
-<img src="Register Screen.png" width ="10%">
+  .gallery img {
+    width: 10%;
+    min-width: 100px;     /* Évite que ça devienne trop petit */
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+  }
 
-<img src="Home.png" width ="10%">
+  .gallery img:hover {
+    transform: scale(1.1);
+  }
+</style>
 
-<img src="Coiffure.png" width ="10%">
-
-<img src="Detail.png" width ="10%">
 
 ## À propos du groupe
 
