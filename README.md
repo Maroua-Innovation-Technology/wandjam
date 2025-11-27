@@ -1,6 +1,6 @@
 # WANDJAM 
 
-#### Application de gestion de salons de coiffure
+### Application de gestion de salons de coiffure
 
 Wandjam est une application mobile développée avec Flutter, conçue pour
 faciliter la gestion complète des salons de coiffure ("wandjam" signifie
