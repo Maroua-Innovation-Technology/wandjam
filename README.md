@@ -102,14 +102,7 @@ services et le suivi des prestations.
      ├── widgets/
      └── utils/
 
-## Installation
 
-``` bash
-git clone https://github.com/username/wandjam.git
-cd wandjam
-flutter pub get
-flutter run
-```
 
 ## Licence
 
