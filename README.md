@@ -35,9 +35,9 @@ Digitaliser l’expérience capillaire, de la prise de rendez-vous jusqu’au su
 - Ajout et gestion des coiffeurs
 - Suivi des prestations et activités du salon
 
-🖼️ Aperçu de la maquette (8 images)
+## Aperçu de la maquette
 
-(Tu ajouteras les images ici plus tard)
+
 
 👥 À propos du groupe
 
