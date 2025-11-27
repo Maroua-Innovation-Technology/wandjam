@@ -1,0 +1,69 @@
+class NamePage {
+  static String initialRoute = "/";
+  static String register = "/register";
+  static String login = "/login";
+  static String signup = "/signup";
+  static String home = "/home";
+  static String onboarding = "/onboarding";
+  static String doctors = "/doctors";
+
+  static String homeEtablissement = "/homeEtablissement";
+  static String forgetPassword = "/forget_password";
+  static String newPassword = "/new_password";
+  static String selectLang = "/select_lang";
+  static String otpVerification = "/otp_verification";
+  static String selectTypeUserAccountView = "/select_type_user_account_view";
+  static String registerEtablissementAccount =
+      "/register_etablissement_account";
+  static String registerStudentAccount = "/register_student_account";
+  static String registerTeacherAccount = "/register_teacher_account";
+  static String detailCours = "/detail_cours";
+  static String detailCathegorie = "/detail_cathegorie";
+  static String achatCoursPage = "/achat_cours_page";
+
+  static String doctorsInformations = "/doctors_informations";
+  static String updateProfil = "/update_profil";
+  static String updatePassword = "/update_password";
+  static String deleteAccount = "/delete_account";
+  static String notificationSettings = "/notification_settings";
+  static String parametres = "/parametres";
+  static String methodePayement = "/methode_payement";
+  static String notification = "/notification";
+  static String aide = "/aide";
+  static String detailNotification = "/detail_notification";
+  static String detailPlanning = "/detail_planning";
+  static String paymentReview = "/payment_review";
+  static String paymentSuccess = "/payment_success";
+  static String favorites = "/favorites";
+  static String productDetailScreenPage = "/product_detail";
+  static String productDetailScreen = "/product_detail_screen";
+  static String cart = "/cart";
+  static String search = "/search";
+  static String personnalData = "/personnal_data";
+  static String detailChat = "/detail_chat";
+  static String paymentPage = "/payment_page";
+  static String signupWithoutEmailPassword = "/signup_without_email_password";
+  static String maBoutique = "/ma_boutique";
+  static String ajoutCompte = "/ajout_compte";
+  static String ajoutArticle = "/ajout_article";
+  static String ajoutPackTraiteur = "/ajout_pack_traiteur";
+  static String ajoutMenuPackTraiteur = "/ajout_menu_pack_traiteur";
+  static String allArticle = "/all_article";
+  static String allPack = "/all_pack";
+  static String detailArticle = "/detail_article";
+  static String detailPackTraiteur = "/detail_pack_traiteur";
+  static String detailMaBoutique = "/detail_ma_boutique";
+  static String mesVentes = "/mes_ventes";
+  static String paymentPageFromCart = "/payment_page_from_cart";
+  static String detailMesVentes = "/detail_mes_ventes";
+  static String detailPackTraiteurClient = "/detail_pack_traiteur_client";
+  static String detailBillingPackTraiteur = "/detail_billing_pack_traiteur";
+  static String allArticleHome = "/all_article_home";
+  static String allPackHome = "/all_pack_home";
+  static String viewImagesPack = "/view_images_pack";
+  static String ajoutCategorie = "/ajout_categorie";
+  static String mesFavoris = "/mes_favoris";
+  static String detailHistorique = "/detail_historique";
+  static String panier = "/panier";
+
+}
