@@ -44,53 +44,52 @@ services et le suivi des prestations.
 
 ### Paiements (optionnel)
 
--   Historique\
+-   Historique
 -   Statistiques
 
 ## Modèle de données (MCD)
 
 ### Users
 
--   id\
--   nom\
--   téléphone\
--   email\
--   rôle\
+-   id
+-   nom
+-   téléphone
+-   email
+-   rôle
 -   image
 
 ### Salons
 
--   id\
--   nom\
--   localisation\
--   images\
+-   id
+-   nom
+-   localisation
+-   images
 -   disponibilité
 
 ### Services
 
--   id\
--   nom\
--   description\
--   images\
--   durée\
--   prix\
+-   id
+-   nom
+-   description
+-   images
+-   prix
 -   catégorie
 
 ### RendezVous
 
--   id\
--   date\
--   heure\
--   statut\
--   salon_id\
--   user_id\
--   coiffeur_id\
+-   id
+-   date
+-   heure
+-   statut
+-   salon_id
+-   user_id
+-   coiffeur_id
 -   service_id
 
 ### TravaillerDans
 
--   user_id\
--   salon_id\
+-   user_id
+-   salon_id
 -   rôle
 
 ## Architecture Flutter
