@@ -4,62 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>WANDJAM - Gestion de salons de coiffure</title>
-<<<<<<< HEAD
-<link rel="stylesheet" href="style.css">
-=======
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
-    background-color: #f9f9f9;
-    color: #333;
-  }
- h1, h2, h3 {
-    color: #2c3e50;
-  }
-  h1 {
-    font-size: 2em;
-    margin-bottom: 0.5em;
-  }
-  h2 {
-    margin-top: 1.5em;
-  }
-  ul {
-    margin-left: 20px;
-  }
-  hr {
-    margin: 40px 0;
-    border: none;
-    border-top: 1px solid #ccc;
-  }
-  .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 20px;
-  }
-  .gallery img {
-    width: 80px;
-    border-radius: 5px;
-    box-shadow: 0 1px 5px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-  }
-  .gallery img:hover {
-    transform: scale(1.1);
-  }
-  a {
-    color: #2980b9;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
-
->>>>>>> ab871f8499a36e67793f89302e031642fb351aaf
 </head>
 <body>
 
