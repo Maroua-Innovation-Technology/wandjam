@@ -37,17 +37,17 @@ Suivi des prestations et activités du salon
 
 ## Aperçu de la maquette
 
-<img src="Welcome Screen.png" width ="50%">
+<img src="Welcome Screen.png" width ="10%">
 
-<img src="Login Screen.png" width ="50%">
+<img src="Login Screen.png" width ="10%">
 
-<img src="Register Screen.png" width ="50%">
+<img src="Register Screen.png" width ="10%">
 
-<img src="Home.png" width ="50%">
+<img src="Home.png" width ="10%">
 
-<img src="Coiffure.png" width ="50%">
+<img src="Coiffure.png" width ="10%">
 
-<img src="Detail.png" width ="50%">
+<img src="Detail.png" width ="10%">
 
 ## À propos du groupe
 
