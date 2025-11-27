@@ -1,9 +1,9 @@
-## WANDJAM
+# WANDJAM
 
 Application mobile destinée à la gestion moderne des salons de coiffure.
 Wandjam facilite la relation entre les salons, les coiffeurs et les clients en regroupant les prestations, les rendez-vous, le suivi et la communication dans une seule plateforme intuitive.
 
-### Présentation générale
+## Présentation générale
 
 Wandjam est une solution simple et efficace qui permet aux salons de coiffure de mieux organiser leur activité quotidienne.
 L’application aide :
@@ -16,20 +16,20 @@ L’application aide :
 Digitaliser l’expérience capillaire, de la prise de rendez-vous jusqu’au suivi du service.
 
 ## Fonctionnalités principales
-*  `Pour les clients`
+### *  Pour les clients
 
 Parcourir les salons disponibles <br>
 Découvrir les styles et coiffures proposés<br>
 Réserver un rendez-vous en quelques clics<br>
 Voir l’historique de ses services<br>
 
-*  `Pour les coiffeurs`
+### * Pour les coiffeurs
 
 Visualisation des rendez-vous du jour <br>
 Gestion des clients et des prestations réalisées <br>
 Mise en avant de leurs coiffures (galerie) <br>
 
-* `Pour les propriétaires / administrateurs`
+### * Pour les propriétaires / administrateurs
 
 Gestion du salon (informations, horaires, images)<br>
 Ajout et gestion des coiffeurs <br>
